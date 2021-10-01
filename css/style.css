@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+article {
+    background-color: rgb(199, 247, 247);
+}
+
+nav {
+    background-color: rgb(56, 57, 57);
+}
+
+.thead-dark {
+    background-color: black;
+    color: white;
+}
+
+.img-logo {
+    height: 50px;
+    width: 50px;
+}
